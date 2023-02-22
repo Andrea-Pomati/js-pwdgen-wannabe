@@ -26,4 +26,4 @@ let cognomeUtente = prompt ("Dimmi il tuo cognome")
 let colorePreferito = prompt ("Dimmi il tuo colore preferito")
 
 
-document.writeln (`${nomeUtente}${cognomeUtente}${colorePreferito}92 `)
+document.writeln(nomeUtente + cognomeUtente + colorePreferito + 92)
