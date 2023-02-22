@@ -5,6 +5,14 @@
 // (es: MarioRossiVerde21) (modificato) 
 
 
+// pseudo codice:
+// - chiedi il nome
+// - chiedi il cognome
+// - chiedi il colore preferito
+// - inserisci tutto in pagina
+
+
+
 let nomeUtente = prompt ("Dimmi il tuo nome")
 
 
